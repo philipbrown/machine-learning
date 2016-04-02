@@ -1,2 +1,1 @@
-# machine-learning
-Adventures in Machine Learning
+# Adventures in Machine Learning
